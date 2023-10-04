@@ -1,0 +1,11 @@
+{
+  "courses": [
+    {
+      "Name": "Computer Science",
+      "Workload": 120,
+      "Area": "exact sciences",
+      "MonthlyFee": 1200,
+      "id": 1
+    }
+  ]
+}
